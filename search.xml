@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>小站的Revival</title>
-    <url>/2025/01/05/Blog/</url>
-    <content><![CDATA[<p>hexo deploy 报错“spawn failed”，原因是 git repo 配置地址不正确，将 http 格式变更为 ssh 格式。经尝试以下方法可行，其余方法请见<a href="https://blog.csdn.net/qq_49218475/article/details/117334256">CSDN</a>博客。</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><code class="hljs yaml"><span class="hljs-comment"># 打开_config.yml（hexo配置文件），修改以下内容</span><br><span class="hljs-attr">deploy:</span><br><span class="hljs-attr">type:</span> <span class="hljs-string">&#x27;git&#x27;</span><br><span class="hljs-attr">repo:</span> <span class="hljs-string">https://github.com/yourname/yourname.github.io.git</span><br><span class="hljs-attr">branch:</span> <span class="hljs-string">master</span><br><br><span class="hljs-comment"># 其中的repo修改为</span><br><span class="hljs-attr">repo:</span> <span class="hljs-string">git@github.com:yourname/yourname.github.io.git</span><br></code></pre></td></tr></table></figure>
-<ul>
-  <li><input type="checkbox" checked disabled> 图标</li>
-  <li><input type="checkbox" checked disabled> 吸底音乐播放器</li>
-  <li><input type="checkbox" checked disabled> 添加评论功能支持</li>
-  <li><input type="checkbox" checked disabled> live2D看板娘</li>
-  <li><input type="checkbox" checked disabled> 一图流背景</li>
-  <li><input type="checkbox" checked disabled> 上线说说功能</li>
-  <li><input type="checkbox" disabled> 明暗主题切换效果</li>
-  <li><input type="checkbox" disabled> 页脚徽标</li>
-  <li><input type="checkbox" disabled> 友链朋友圈(低优先级)</li>
-</ul>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CUDA学习笔记</title>
     <url>/2023/12/29/cuda/</url>
     <content><![CDATA[<h1>CUDA C/C++编程的学习</h1>
@@ -344,6 +320,58 @@
       </tags>
   </entry>
   <entry>
+    <title>小站的Revival</title>
+    <url>/2025/01/05/Blog/</url>
+    <content><![CDATA[<p>hexo deploy 报错“spawn failed”，原因是 git repo 配置地址不正确，将 http 格式变更为 ssh 格式。经尝试以下方法可行，其余方法请见<a href="https://blog.csdn.net/qq_49218475/article/details/117334256">CSDN</a>博客。</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><code class="hljs yaml"><span class="hljs-comment"># 打开_config.yml（hexo配置文件），修改以下内容</span><br><span class="hljs-attr">deploy:</span><br><span class="hljs-attr">type:</span> <span class="hljs-string">&#x27;git&#x27;</span><br><span class="hljs-attr">repo:</span> <span class="hljs-string">https://github.com/yourname/yourname.github.io.git</span><br><span class="hljs-attr">branch:</span> <span class="hljs-string">master</span><br><br><span class="hljs-comment"># 其中的repo修改为</span><br><span class="hljs-attr">repo:</span> <span class="hljs-string">git@github.com:yourname/yourname.github.io.git</span><br></code></pre></td></tr></table></figure>
+<ul>
+  <li><input type="checkbox" checked disabled> 图标</li>
+  <li><input type="checkbox" checked disabled> 吸底音乐播放器</li>
+  <li><input type="checkbox" checked disabled> 添加评论功能支持</li>
+  <li><input type="checkbox" checked disabled> live2D看板娘</li>
+  <li><input type="checkbox" checked disabled> 一图流背景</li>
+  <li><input type="checkbox" checked disabled> 上线说说功能</li>
+  <li><input type="checkbox" disabled> 明暗主题切换效果</li>
+  <li><input type="checkbox" disabled> 页脚徽标</li>
+  <li><input type="checkbox" disabled> 友链朋友圈(低优先级)</li>
+</ul>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World！</title>
+    <url>/2023/09/04/hello%20world/</url>
+    <content><![CDATA[<h1>建站起因</h1>
+<p>突然发现自己已经是大三老东西了，前两年由于兴趣广泛，试了不少错，遍尝失败苦果，现在已经没有试错的资本了。之前学长说我涉猎多而不精，现在想来也是，我总是见猎心喜，打算学习某方面知识然后又浅尝辄止，且由于能力精力有限，导致了如今反省自身只能惶恐地发现竟无一项所长。未来方向之多以致惊慌迷茫失措，我也该思考未来规划了（这也许是我第一次面临这样的选择，从小到大，升学、分科、择校、转专业种种选择，我仿佛都在随波逐流，从未独立作出自己的抉择）</p>
+<p>之前见过同学的博客，我也心血来潮跟着教程折腾了几天，搭建了个自己的博客（hexo+butterfly 确实简单易用且美观），希望以此记录我的学习轨迹，兼作督促。</p>
+<h1>未来规划</h1>
+<p>博客先就这样了(虽然还有不少问题没有解决和好多功能没有实现)，其实我对美观方面是比较在意的，先立个 flag，以后有时间的话一定回来继续优化。</p>
+<p>新的学年不能再像之前那般任性且遇难则退，希望能选定一个方向进行深耕，做到精通。学习轨迹我也会尽量更新在本博客 😉</p>
+<hr>
+<p>现在是大三下学期，综合了风险和对应期望，老东西我还是要走上考研的道路了。鉴于之前走了不少错路，希望以后的每一步都能走的谨慎，能走到局部最优上。</p>
+<p>博客也没时间更新了，等考完研吧 😭</p>
+<h2 id="后续投放内容-博客好像不支持插入代办">后续投放内容(博客好像不支持插入代办)</h2>
+<ul>
+<li>[ ] <s>自平衡摩托车调试记录</s></li>
+<li>[ ] 日记&amp;随想</li>
+<li>[ ] 地平线智慧医疗记录</li>
+<li>[ ] 已刷番剧整理</li>
+<li>[ ] 已刷小说&amp;书籍整理</li>
+</ul>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>透视变换</title>
     <url>/2025/01/04/%E9%80%8F%E8%A7%86%E5%8F%98%E6%8D%A2/</url>
     <content><![CDATA[<p>智能车传统组常使用“逆透视”的手段获取赛道俯视图，群友将这一思路移植到地平线组，在借鉴学习之后，记录于此。</p>
@@ -406,34 +434,6 @@ Y=\frac{y}{w}
       </categories>
       <tags>
         <tag>图像处理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World！</title>
-    <url>/2023/09/04/hello%20world/</url>
-    <content><![CDATA[<h1>建站起因</h1>
-<p>突然发现自己已经是大三老东西了，前两年由于兴趣广泛，试了不少错，遍尝失败苦果，现在已经没有试错的资本了。之前学长说我涉猎多而不精，现在想来也是，我总是见猎心喜，打算学习某方面知识然后又浅尝辄止，且由于能力精力有限，导致了如今反省自身只能惶恐地发现竟无一项所长。未来方向之多以致惊慌迷茫失措，我也该思考未来规划了（这也许是我第一次面临这样的选择，从小到大，升学、分科、择校、转专业种种选择，我仿佛都在随波逐流，从未独立作出自己的抉择）</p>
-<p>之前见过同学的博客，我也心血来潮跟着教程折腾了几天，搭建了个自己的博客（hexo+butterfly 确实简单易用且美观），希望以此记录我的学习轨迹，兼作督促。</p>
-<h1>未来规划</h1>
-<p>博客先就这样了(虽然还有不少问题没有解决和好多功能没有实现)，其实我对美观方面是比较在意的，先立个 flag，以后有时间的话一定回来继续优化。</p>
-<p>新的学年不能再像之前那般任性且遇难则退，希望能选定一个方向进行深耕，做到精通。学习轨迹我也会尽量更新在本博客 😉</p>
-<hr>
-<p>现在是大三下学期，综合了风险和对应期望，老东西我还是要走上考研的道路了。鉴于之前走了不少错路，希望以后的每一步都能走的谨慎，能走到局部最优上。</p>
-<p>博客也没时间更新了，等考完研吧 😭</p>
-<h2 id="后续投放内容-博客好像不支持插入代办">后续投放内容(博客好像不支持插入代办)</h2>
-<ul>
-<li>[ ] <s>自平衡摩托车调试记录</s></li>
-<li>[ ] 日记&amp;随想</li>
-<li>[ ] 地平线智慧医疗记录</li>
-<li>[ ] 已刷番剧整理</li>
-<li>[ ] 已刷小说&amp;书籍整理</li>
-</ul>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>杂谈</tag>
       </tags>
   </entry>
 </search>
