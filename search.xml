@@ -1,43 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Season 1 Episode 1-小站诞生</title>
-    <url>/2023/09/04/hello%20world/</url>
-    <content><![CDATA[<h1>建站起因</h1>
-<p>博主已经是大三老东西了，前两年由于兴趣广泛，总是突发奇想打算学习某方面知识然后又浅尝辄止，杂乱无序的学习路线导致如今复盘发现竟无一项所长。之前见过同学的博客，我也心血来潮跟着教程折腾了几天，搭建了个自己的博客（hexo+butterfly），希望以此记录我的学习轨迹，兼作督促。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Season 2 Episode 1-小站重生</title>
-    <url>/2025/01/05/i_m_back/</url>
-    <content><![CDATA[<h1>Revival</h1>
-<p>终于考完研了，感觉考研并没有想象中的那般糟糕。之前总是一昧厌恶应试教育，觉得其浪费时间且无用，但若目标是夯实理论知识基础，真正掌握知识，好像刷题备考<br>
-确实是一个 cost-effective 的方法。</p>
-<p>复盘这次考研，虽然实际备考时间不长，也没有“想象中的我”那样努力，但先不论结果，单从过程来说，这段学习确实弥补了博主不少理论知识的缺陷，比如博主重新深入的学习了线性代数这门课，对线代的含义和其在工程中的广泛应用有了新的认知。之前大一的时候完全不知道这门课的意义何在（我宣布同济版线代教材已经不是本教材了），这门课最后也以惊喜的分数阻碍了我转去更心仪的专业 😅。总之，博主还是感谢备战考研的这一段时间和自己，如果还要再来一次的话当我没说。</p>
-<p>耗费了一个周末打扫废弃的小站，添加了几个新功能（感谢 butterfly 主题更新了博主早就想要的说说功能），修复了几个历史遗留问题，小站现在涅槃升华，活出第二世 🎉。</p>
-<p>关于之前立的美化 flag，博主感觉过分在意美化也许走了错路（不是我懒），将来的技能点也不会点在前端上，所以美化就这样吧，今后还是将重心转到内容创作上。</p>
-<p>虽然还有复试的压力，但是博主现在的时间还是十分的充裕。博主又双叒叕打算定几个小目标，后续学习记录会尽量更新到博客。</p>
-<!-- <ul>
-  <li><input type="checkbox" checked disabled> 图标</li>
-  <li><input type="checkbox" checked disabled> 吸底音乐播放器</li>
-  <li><input type="checkbox" checked disabled> 添加评论功能支持</li>
-  <li><input type="checkbox" checked disabled> live2D看板娘</li>
-  <li><input type="checkbox" checked disabled> 一图流背景</li>
-  <li><input type="checkbox" checked disabled> 上线说说功能</li>
-  <li><input type="checkbox" disabled> 明暗主题切换效果</li>
-  <li><input type="checkbox" disabled> 页脚徽标</li>
-  <li><input type="checkbox" disabled> 友链朋友圈(低优先级)</li>
-
-</ul> -->
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
-  <entry>
     <title>CUDA学习笔记</title>
     <url>/2023/12/29/cuda/</url>
     <content><![CDATA[<h1>CUDA C/C++编程的学习</h1>
@@ -355,6 +318,43 @@
       <tags>
         <tag>cuda</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Season 1 Episode 1-小站诞生</title>
+    <url>/2023/09/04/hello%20world/</url>
+    <content><![CDATA[<h1>建站起因</h1>
+<p>博主已经是大三老东西了，前两年由于兴趣广泛，总是突发奇想打算学习某方面知识然后又浅尝辄止，杂乱无序的学习路线导致如今复盘发现竟无一项所长。之前见过同学的博客，我也心血来潮跟着教程折腾了几天，搭建了个自己的博客（hexo+butterfly），希望以此记录我的学习轨迹，兼作督促。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Season 2 Episode 1-小站重生</title>
+    <url>/2025/01/05/i_m_back/</url>
+    <content><![CDATA[<h1>Revival</h1>
+<p>终于考完研了，感觉考研并没有想象中的那般糟糕。之前总是一昧厌恶应试教育，觉得其浪费时间且无用，但若目标是夯实理论知识基础，真正掌握知识，好像刷题备考<br>
+确实是一个 cost-effective 的方法。</p>
+<p>复盘这次考研，虽然实际备考时间不长，也没有“想象中的我”那样努力，但先不论结果，单从过程来说，这段学习确实弥补了博主不少理论知识的缺陷，比如博主重新深入的学习了线性代数这门课，对线代的含义和其在工程中的广泛应用有了新的认知。之前大一的时候完全不知道这门课的意义何在（我宣布同济版线代教材已经不是本教材了），这门课最后也以惊喜的分数阻碍了我转去更心仪的专业 😅。总之，博主还是感谢备战考研的这一段时间和自己，如果还要再来一次的话当我没说。</p>
+<p>耗费了一个周末打扫废弃的小站，添加了几个新功能（感谢 butterfly 主题更新了博主早就想要的说说功能），修复了几个历史遗留问题，小站现在涅槃升华，活出第二世 🎉。</p>
+<p>关于之前立的美化 flag，博主感觉过分在意美化也许走了错路（不是我懒），将来的技能点也不会点在前端上，所以美化就这样吧，今后还是将重心转到内容创作上。</p>
+<p>虽然还有复试的压力，但是博主现在的时间还是十分的充裕。博主又双叒叕打算定几个小目标，后续学习记录会尽量更新到博客。</p>
+<!-- <ul>
+  <li><input type="checkbox" checked disabled> 图标</li>
+  <li><input type="checkbox" checked disabled> 吸底音乐播放器</li>
+  <li><input type="checkbox" checked disabled> 添加评论功能支持</li>
+  <li><input type="checkbox" checked disabled> live2D看板娘</li>
+  <li><input type="checkbox" checked disabled> 一图流背景</li>
+  <li><input type="checkbox" checked disabled> 上线说说功能</li>
+  <li><input type="checkbox" disabled> 明暗主题切换效果</li>
+  <li><input type="checkbox" disabled> 页脚徽标</li>
+  <li><input type="checkbox" disabled> 友链朋友圈(低优先级)</li>
+
+</ul> -->
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
   </entry>
   <entry>
     <title>Season 1 Episode 2-小站退役(暂时)</title>
