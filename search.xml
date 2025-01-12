@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Season 1 Episode 1-小站诞生</title>
+    <url>/2023/09/04/hello%20world/</url>
+    <content><![CDATA[<h1>建站起因</h1>
+<p>博主已经是大三老东西了，前两年由于兴趣广泛，总是突发奇想打算学习某方面知识然后又浅尝辄止，杂乱无序的学习路线导致如今复盘发现竟无一项所长。之前见过同学的博客，我也心血来潮跟着教程折腾了几天，搭建了个自己的博客（hexo+butterfly），希望以此记录我的学习轨迹，兼作督促。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Season 1 Episode 2-小站退役(暂时)</title>
+    <url>/2024/03/08/see%20you%20again/</url>
+    <content><![CDATA[<h1>退役原因</h1>
+<p>鉴于之前走了不少错路，保研这条路博主已经心灰意冷了。综合了风险和期望，博主决定另起炉灶，走上考研的道路。</p>
+<p>博客先就这样了(虽然还有不少问题没有解决和好多功能没有实现)，其实博主对美观方面是比较在意的，姑且先立个 flag，以后有时间的话一定回来继续优化。</p>
+<p>博客也没时间更新了，等考完研吧 😭</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+  </entry>
+  <entry>
     <title>CUDA学习笔记</title>
     <url>/2023/12/29/cuda/</url>
     <content><![CDATA[<h1>CUDA C/C++编程的学习</h1>
@@ -320,16 +342,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Season 1 Episode 1-小站诞生</title>
-    <url>/2023/09/04/hello%20world/</url>
-    <content><![CDATA[<h1>建站起因</h1>
-<p>博主已经是大三老东西了，前两年由于兴趣广泛，总是突发奇想打算学习某方面知识然后又浅尝辄止，杂乱无序的学习路线导致如今复盘发现竟无一项所长。之前见过同学的博客，我也心血来潮跟着教程折腾了几天，搭建了个自己的博客（hexo+butterfly），希望以此记录我的学习轨迹，兼作督促。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Season 2 Episode 1-小站重生</title>
     <url>/2025/01/05/i_m_back/</url>
     <content><![CDATA[<h1>Revival</h1>
@@ -351,18 +363,6 @@
   <li><input type="checkbox" disabled> 友链朋友圈(低优先级)</li>
 
 </ul> -->
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>Season 1 Episode 2-小站退役(暂时)</title>
-    <url>/2024/03/08/see%20you%20again/</url>
-    <content><![CDATA[<h1>退役原因</h1>
-<p>鉴于之前走了不少错路，保研这条路博主已经心灰意冷了。综合了风险和期望，博主决定另起炉灶，走上考研的道路。</p>
-<p>博客先就这样了(虽然还有不少问题没有解决和好多功能没有实现)，其实博主对美观方面是比较在意的，姑且先立个 flag，以后有时间的话一定回来继续优化。</p>
-<p>博客也没时间更新了，等考完研吧 😭</p>
 ]]></content>
       <categories>
         <category>生活</category>
