@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Season 1 Episode 1-小站诞生</title>
-    <url>/2023/09/04/hello%20world/</url>
-    <content><![CDATA[<h1>建站起因</h1>
-<p>博主已经是大三老东西了，前两年由于兴趣广泛，总是突发奇想打算学习某方面知识然后又浅尝辄止，杂乱无序的学习路线导致如今复盘发现竟无一项所长。之前见过同学的博客，我也心血来潮跟着教程折腾了几天，搭建了个自己的博客（hexo+butterfly），希望以此记录我的学习轨迹，兼作督促。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
-  <entry>
     <title>CUDA学习笔记</title>
     <url>/2023/12/29/cuda/</url>
     <content><![CDATA[<h1>CUDA C/C++编程的学习</h1>
@@ -328,6 +318,16 @@
       <tags>
         <tag>cuda</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Season 1 Episode 1-小站诞生</title>
+    <url>/2023/09/04/hello%20world/</url>
+    <content><![CDATA[<h1>建站起因</h1>
+<p>博主已经是大三老东西了，前两年由于兴趣广泛，总是突发奇想打算学习某方面知识然后又浅尝辄止，杂乱无序的学习路线导致如今复盘发现竟无一项所长。之前见过同学的博客，我也心血来潮跟着教程折腾了几天，搭建了个自己的博客（hexo+butterfly），希望以此记录我的学习轨迹，兼作督促。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
   </entry>
   <entry>
     <title>Season 2 Episode 1-小站重生</title>
