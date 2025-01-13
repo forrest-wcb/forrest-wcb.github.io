@@ -11,18 +11,6 @@
       </categories>
   </entry>
   <entry>
-    <title>Season 1 Episode 2-小站退役(暂时)</title>
-    <url>/2024/03/08/see%20you%20again/</url>
-    <content><![CDATA[<h1>退役原因</h1>
-<p>鉴于之前走了不少错路，保研这条路博主已经心灰意冷了。综合了风险和期望，博主决定另起炉灶，走上考研的道路。</p>
-<p>博客先就这样了(虽然还有不少问题没有解决和好多功能没有实现)，其实博主对美观方面是比较在意的，姑且先立个 flag，以后有时间的话一定回来继续优化。</p>
-<p>博客也没时间更新了，等考完研吧 😭</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
-  <entry>
     <title>CUDA学习笔记</title>
     <url>/2023/12/29/cuda/</url>
     <content><![CDATA[<h1>CUDA C/C++编程的学习</h1>
@@ -363,6 +351,18 @@
   <li><input type="checkbox" disabled> 友链朋友圈(低优先级)</li>
 
 </ul> -->
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Season 1 Episode 2-小站退役(暂时)</title>
+    <url>/2024/03/08/see%20you%20again/</url>
+    <content><![CDATA[<h1>退役原因</h1>
+<p>鉴于之前走了不少错路，保研这条路博主已经心灰意冷了。综合了风险和期望，博主决定另起炉灶，走上考研的道路。</p>
+<p>博客先就这样了(虽然还有不少问题没有解决和好多功能没有实现)，其实博主对美观方面是比较在意的，姑且先立个 flag，以后有时间的话一定回来继续优化。</p>
+<p>博客也没时间更新了，等考完研吧 😭</p>
 ]]></content>
       <categories>
         <category>生活</category>
